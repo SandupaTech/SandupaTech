@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandupaTech
-- I'm 15 Years Old
+- ✨ I'm 15 Years Old
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning Python,C#
 
