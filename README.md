@@ -1,14 +1,13 @@
-### Hi there, I'm Senith Chandul 👋
+### Hi there, I'm Sandupa Sandamina 👋
 
 ## I'm a Student and somewhat a software Developer!!
 
 - 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
 - 🔭 I’m currently working on : Senith.Org <br>
-- 📚 I went to : Richmond College, Galle <br>
-- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/On-Github-black) <br>
-- 🤔 I’m looking for help : For Me <br>
-- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/Age-15-yellow) Teen 😄
-- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-On%20Telegram-blue)
+- 📚 I go to : Richmond College, Galle <br>
+- 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/on-github-blue) <br>
+- ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-16-red) Teen 😄
+- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-on%20Telegram-blue)
 
 ### My Github Status
 
@@ -43,4 +42,4 @@
 
 # MOST USED LANGUAGES
 
-![NOTICE](https://github-readme-stats.vercel.app/api/top-langs/?username=Senith-Chandul&theme=dark&show_icons=true)
+![NOTICE](https://github-readme-stats.vercel.app/api/top-langs/?username=SandupaTech&theme=dark&show_icons=true)
