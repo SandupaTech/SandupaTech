@@ -3,7 +3,7 @@
 ## I'm a Student and somewhat a software Developer!!
 
 - 🚶‍ &nbsp; I live in : Sri Lanka 🇱🇰 <br>
-- 🔭 I’m currently working on : <a href="https://www.sandupatech.com/" target="_blank" >Sandupa Tech Website</a>
+- 🔭 I’m currently working on : <a href="https://www.sandupatech.com" target="_blank" rel="noopener noreferrer" >Sandupa Tech Website</a>
 - 📚 I go to : Richmond College, Galle <br>
 - 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/on-github-blue) <br>
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-16-red) Teen 😄
