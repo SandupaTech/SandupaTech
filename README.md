@@ -7,7 +7,7 @@
 - 📚 I go to : Richmond College, Galle <br>
 - 👯 I’m looking to collaborate : ![github](https://img.shields.io/badge/on-github-blue) <br>
 - ⚡ Fun fact: I'm just an ![age](https://img.shields.io/badge/age-16-red) Teen 😄
-- 📫 How to reach me : ![contact](https://img.shields.io/badge/Contact%20me-on%20Telegram-blue)
+- 📫 How to reach me : <a href="https://t.me/SandupaSandamina" target="_blank"> <img src="https://img.shields.io/badge/Contact%20me-on%20Telegram-blue"> </a>
 
 ### My Github Status
 
